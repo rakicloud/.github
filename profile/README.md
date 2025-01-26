@@ -1,6 +1,6 @@
-## openXcloud
+## rakicloud
 
-A hybrid opensource cloud platform which suits all your usecase
+**rakicloud** is a unified hybrid cloud infrastructure platform designed to integrate multiple backend systems such as OpenStack, MaaS, and Azure Cloud. Users can log in to rakicloud and reserve instances, which can be virtual machines, bare metals, Kubernetes clusters, or containers. rakicloud is developed as a microservice architecture to provide scalable and flexible cloud solutions.
 
 <!--
 
